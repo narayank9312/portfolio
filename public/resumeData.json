@@ -1,0 +1,124 @@
+{
+    "main": {
+        "name": "Narayan Kumar Jha",
+        "occupation": "Instructor @Paradox Dealing with Mathematics and Programming languages Reactjs developer and Flutter developer",
+        "description": "Freelancer educator and fullstack React developer",
+        "image": "Narayan.jpeg",
+        "bio": "My name is Narayan,  I'm final year Computer Science student and also giving coaching to thousand of student of Mathematics and programming languages and data structure , I'm a Full Stack ReactJS Developer.",
+        "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+        "email": "narayank9312@gmail.com",
+        "phone": "+91 8178518597",
+        "address": {
+            "street": "151 , block-b , roshan nagar , sec-91",
+            "city": "faridabad",
+            "state": "haryana",
+            "zip": "121013"
+        },
+        "website": "in progress",
+        "resumedownload": "https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:7926956/",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/narayan.kant.39",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/narayan-kumar-jha-339107149/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/navneet9312/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/narayank9312",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [{
+            "school": "JC BOSE YMCA",
+            "degree": "Bachelor of Technology in Computer Science",
+            "graduated": "MAY 2021",
+            "description": "decent marks till current sem"
+        }],
+        "work": [{
+                "company": "Paradox",
+                "title": "Team Member && Educator",
+                "years": "August 2019 - August 2020",
+                "description": "Teaching Mathematics and programming languages(c,c++,java) to thousands of students."
+            },
+            {
+                "company": "Central Goods & Services Tax Commissionerate Delhi South",
+                "title": "Data Analysis",
+                "years": "16 july - 20 august",
+                "description": "analysis gst-1M,2A,3B AND inward / outward supplies"
+            }
+        ],
+        "skills": [{
+                "name": "java",
+                "level": "80%"
+            },
+            {
+                "name": "CSS",
+                "level": "65%"
+            },
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Reactjs",
+                "level": "55%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "python",
+                "level": "95%"
+
+            }, {
+                "name": "MongoDB",
+                "level": "20%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Vetratva",
+                "category": "leading a college event",
+                "image": "DSC_009-Copy.JPG",
+                "url": "http://vetratva.com/?i=1#digidia-header"
+            },
+            {
+                "title": "Facebook Clone with React",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "facebook-clone.png",
+                "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+            },
+            {
+                "title": "Netflix Clone",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "netflix-clone.jpeg",
+                "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "I have work with Narayan on mulyiple projects which has always been a pleasure. he is driven and motivated with a consistently positive attitude. ",
+                "user": "Vinay Kumar"
+            },
+            {
+                "text": "Turning a side project started in college into a full-fledged venture requires a combination of the right guidance from mentors, a faithful team, enough planning, money, hard work and some plain luck",
+                "user": "Himanshu Gautam"
+            }
+        ]
+    }
+}
